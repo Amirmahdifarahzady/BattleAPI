@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=332&imdensity=1",
+    "smimg": "./svgviewer-png-output.png",
+    "textfrontofsmimg": "text",
+    "bigtext": "text",
+    "yellotext": "text",
+    "lowtext": "text",
+    "price": "text"
+  },
+  {
+    "id": 2,
+    "bigimg": "",
+    "smimg": "",
+    "textfrontofsmimg": "",
+    "bigtext": "",
+    "yellotext": "",
+    "lowtext": "",
+    "price": ""
+  },
+  {
+    "id": 3,
+    "bigimg": "",
+    "smimg": "",
+    "textfrontofsmimg": "",
+    "bigtext": "",
+    "yellotext": "",
+    "lowtext": "",
+    "price": ""
+  },
+  {
+    "id": 4,
+    "bigimg": "",
+    "smimg": "",
+    "textfrontofsmimg": "",
+    "bigtext": "",
+    "yellotext": "",
+    "lowtext": "",
+    "price": ""
+  },
+  {
+    "id": 5,
+    "bigimg": "",
+    "smimg": "",
+    "textfrontofsmimg": "",
+    "bigtext": "",
+    "yellotext": "",
+    "lowtext": "",
+    "price": ""
+  },
+  {
+    "id": 6,
+    "bigimg": "",
+    "smimg": "",
+    "textfrontofsmimg": "",
+    "bigtext": "",
+    "yellotext": "",
+    "lowtext": "",
+    "price": ""
+  },
+  {
+    "id": 7,
+    "bigimg": "",
+    "smimg": "",
+    "textfrontofsmimg": "",
+    "bigtext": "",
+    "yellotext": "",
+    "lowtext": "",
+    "price": ""
+  },
+  {
+    "id": 8,
+    "bigimg": "",
+    "smimg": "",
+    "textfrontofsmimg": "",
+    "bigtext": "",
+    "yellotext": "",
+    "lowtext": "",
+    "price": ""
+  }
+]

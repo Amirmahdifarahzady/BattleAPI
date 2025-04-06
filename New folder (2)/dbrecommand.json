@@ -1,82 +1,82 @@
 [
   {
     "id": 1,
-    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=332&imdensity=1",
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/a…Card_Heroic_1920x1080.png?imwidth=332&imdensity=1",
     "smimg": "./svgviewer-png-output.png",
-    "textfrontofsmimg": "text",
-    "bigtext": "text",
-    "yellotext": "text",
-    "lowtext": "text",
-    "price": "text"
+    "textfrontofsmimg": "World of Warcraft Mists of Pandaria Classic ",
+    "bigtext": "Sha-Infused Heroic Pack",
+    "yellotext": "Mists of Pandaria Classic will be included with Subscription or Game Time. Get a bounty of Sha-infused cosmetics for both Modern and Classic Progression now!",
+    "lowtext": "Game Upgrades",
+    "price": "$39.99"
   },
   {
     "id": 2,
-    "bigimg": "",
-    "smimg": "",
-    "textfrontofsmimg": "",
-    "bigtext": "",
-    "yellotext": "",
-    "lowtext": "",
-    "price": ""
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/a…oenix_1920x1080_JL01b.png?imwidth=332&imdensity=1",
+    "smimg": "./svgviewer-png-output (1).png",
+    "textfrontofsmimg": " World of Warcraft ",
+    "bigtext": "World of Warcraft<sup>™</sup>: The War Within<sup>™</sup>",
+    "yellotext": "Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
+    "lowtext": "Massively Multiplayer RPG",
+    "price": "From $49.99"
   },
   {
     "id": 3,
-    "bigimg": "",
-    "smimg": "",
-    "textfrontofsmimg": "",
-    "bigtext": "",
-    "yellotext": "",
-    "lowtext": "",
-    "price": ""
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/a…esktop_Mobile_960x540.png?imwidth=332&imdensity=1",
+    "smimg": "./svgviewer-png-output (2).png",
+    "textfrontofsmimg": " Diablo IV ",
+    "bigtext": "Diablo<sup>®</sup> IV Expansion Bundle",
+    "yellotext": "Vessel of Hatred Available Now!",
+    "lowtext": "Action RPG",
+    "price": "$69.99"
   },
   {
     "id": 4,
-    "bigimg": "",
-    "smimg": "",
-    "textfrontofsmimg": "",
-    "bigtext": "",
-    "yellotext": "",
-    "lowtext": "",
-    "price": ""
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/a…_card_combo_1920x1080.png?imwidth=332&imdensity=1",
+    "smimg": "./svgviewer-png-output (3).png",
+    "textfrontofsmimg": " Call of Duty Black Ops 6 ",
+    "bigtext": "Call of Duty<sup>®</sup>: Black Ops 6 - Vault Edition",
+    "yellotext": "Welcome Home to Verdansk in Season 03!",
+    "lowtext": "Action Shooter",
+    "price": "$99.99"
   },
   {
     "id": 5,
-    "bigimg": "",
-    "smimg": "",
-    "textfrontofsmimg": "",
-    "bigtext": "",
-    "yellotext": "",
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/a…owsing-EN-960x540_(6).jpg?imwidth=332&imdensity=1",
+    "smimg": "./svgviewer-png-output (4).png",
+    "textfrontofsmimg": " Overwatch 2 ",
+    "bigtext": "Overwatch<sup>®</sup> 2",
+    "yellotext": "Team-Based Action Game",
     "lowtext": "",
-    "price": ""
+    "price": "Play For Free"
   },
   {
     "id": 6,
-    "bigimg": "",
-    "smimg": "",
-    "textfrontofsmimg": "",
-    "bigtext": "",
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/a…hopbrowsing_1920x1080.png?imwidth=332&imdensity=1",
+    "smimg": "./svgviewer-png-output (5).png",
+    "textfrontofsmimg": " Hearthstone ",
+    "bigtext": "Hearthstone<sup>®</sup>",
     "yellotext": "",
-    "lowtext": "",
-    "price": ""
+    "lowtext": "Strategy Card Game",
+    "price": "Play For Free"
   },
   {
     "id": 7,
-    "bigimg": "",
-    "smimg": "",
-    "textfrontofsmimg": "",
-    "bigtext": "",
-    "yellotext": "",
-    "lowtext": "",
-    "price": ""
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/a…tOnly_1920x1080_MMZ02.png?imwidth=332&imdensity=1",
+    "smimg": "./svgviewer-png-output (6).png",
+    "textfrontofsmimg": " Call of Duty: Warzone ",
+    "bigtext": "Call of Duty<sup>®</sup>: Warzone",
+    "yellotext": "Free for everyone",
+    "lowtext": "Action Shooter",
+    "price": "Play For Free"
   },
   {
     "id": 8,
-    "bigimg": "",
-    "smimg": "",
-    "textfrontofsmimg": "",
-    "bigtext": "",
-    "yellotext": "",
-    "lowtext": "",
-    "price": ""
+    "bigimg": "https://blz-contentstack-images.akamaized.net/v3/a…arrison-App-1920x1080.png?imwidth=332&imdensity=1",
+    "smimg": "./svgviewer-png-output (7).png",
+    "textfrontofsmimg": " Diablo II: Resurrected ",
+    "bigtext": "Diablo II: Resurrected<sup>™</sup>",
+    "yellotext": "Evil is Resurrected",
+    "lowtext": "Action RPG",
+    "price": "$39.99"
   }
 ]
